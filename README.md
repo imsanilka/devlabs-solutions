@@ -29,7 +29,7 @@ How to Run Locally
 
 To view this project on your local machine, simply follow these steps:
 
-Clone the repository: git clone https://github.com/imsanilka/web-site-for-startup-tech-company-?tab=readme-ov-file#web-site-for-startup-tech-company-
+Clone the repository: git clone https://github.com/imsanilka/devlabs-solutions
 
 Navigate to the project directory: cd web-site-for-startup-tech-company-
 
